@@ -3,7 +3,7 @@ function indexOfIgnoreCase(s1, s2) {
 	const Lowercase_s1 = s1.toLowerCase();
 	const Lowercase_s2 = s2.toLowerCase(); 
 
-	return Lowercase_s1.indexof(Lowercase_s2);  
+	return Lowercase_s1.indexOf(Lowercase_s2);  
 	
 }
 
